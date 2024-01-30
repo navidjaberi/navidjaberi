@@ -28,8 +28,8 @@ As a seasoned front-end developer with over +2 years of experience, I specialize
 
 ## How to Reach Me
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **Portfolio:** [Your Portfolio Website](https://www.yourportfolio.com)
-
+<a href="mailto:dkpnavid@gmail.com)"><img src="https://github.com/navidjaberi/navidjaberi/blob/main/icons8-gmail-48.png?raw=true"/></a>
+<a href="https://www.linkedin.com/in/navid-jaberi-22497a21b"><img src="https://github.com/navidjaberi/navidjaberi/blob/main/icons8-linkedin-48%20(1).png?raw=true"/></a>
+<a href="https://www.instagram.com/navid.jbri"><img src="https://github.com/navidjaberi/navidjaberi/blob/main/icons8-instagram-48.png?raw=true"/></a>
+<a href="https://t.me/n_jaberii"><img src="https://github.com/navidjaberi/navidjaberi/blob/main/icons8-telegram-48.png?raw=true"/></a>
 
