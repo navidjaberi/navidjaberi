@@ -1,7 +1,7 @@
 
 ## About Me 👨🏻‍💻
 
-As a seasoned front-end developer with over +2 years of experience, I specialize in creating responsive and visually appealing websites. My expertise includes a deep understanding of **JavaScript**, **HTML**, and **CSS**, with proficiency in various technologies. I am particularly experienced in working with **Nuxt**, **Vue.js**, **React**, and **Next.js**. My background also extends to **WordPress** and **UI/UX design**, contributing to a well-rounded skill set.
+As a seasoned front-end developer with over +3 years of experience, I specialize in creating responsive and visually appealing websites. My expertise includes a deep understanding of **JavaScript**, **HTML**, and **CSS**, with proficiency in various technologies. I am particularly experienced in working with **Nuxt**, **Vue.js**, **React**, and **Next.js**. My background also extends to **WordPress** and **UI/UX design**, contributing to a well-rounded skill set.
 
 ## **Technologies** ⚡️
 
