@@ -1,10 +1,21 @@
 
 ## About Me 👨🏻‍💻
 
-As a seasoned front-end developer with over +3 years of experience, I specialize in creating responsive and visually appealing websites. My expertise includes a deep understanding of **JavaScript**, **HTML**, and **CSS**, with proficiency in various technologies. I am particularly experienced in working with **Nuxt**, **Vue.js**, **React**, and **Next.js**. My background also extends to **WordPress** and **UI/UX design**, contributing to a well-rounded skill set.
+I'm a Frontend Developer with 4 years of experience and deep expertise in JavaScript, TypeScript, HTML, and CSS. I specialize in Nuxt.js and Vue.js and have familiarity with Next.js and React. I’m passionate about clean code, intuitive design, and continuous learning.
+
+## GitHub Statistics :chart_with_upwards_trend:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navidjaberi&show_icons=true&locale=en&theme=radical" alt="navidjaberi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navidjaberi&theme=radical" alt="navidjaberi" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navidjaberi&show_icons=true&locale=en&layout=compact&theme=radical" alt="navidjaberi" />
+</p>
+
+<br/>
 
 ## **Technologies** ⚡️
-
+ 
 - 💻  &nbsp; 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
