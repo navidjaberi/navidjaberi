@@ -1,7 +1,8 @@
 
 ## About Me 👨🏻‍💻
 
-I'm a Frontend Developer with 4 years of experience and deep expertise in JavaScript, TypeScript, HTML, and CSS. I specialize in Nuxt.js and Vue.js and have familiarity with Next.js and React. I’m passionate about clean code, intuitive design, and continuous learning.
+I'm a Frontend Developer with 5+ years of experience building scalable, fast, and SEO‑friendly web apps with Vue.js, Nuxt 3, and TypeScript. I care about clean code, good architecture, and smooth user experiences.
+I’m a self‑taught developer, always learning and experimenting with modern frontend practices and performance optimization. I’m interested in roles where I can help improve the product and grow as a frontend engineer.
 
 ## GitHub Statistics :chart_with_upwards_trend:
 
