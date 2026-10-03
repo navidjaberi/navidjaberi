@@ -1,69 +1,34 @@
+## Hi, I'm Navid
 
-## About Me 👨🏻‍💻
+I'm a frontend engineer working mostly with **Vue 3 and Nuxt**. For the past 4+ years I've been building apps that people use every day: a digital menu platform for cafes and restaurants, an internal CRM, and a couple of PWAs for healthcare services.
 
-I'm a Frontend Developer with 5+ years of experience building scalable, fast, and SEO‑friendly web apps with Vue.js, Nuxt 3, and TypeScript. I care about clean code, good architecture, and smooth user experiences.
-I’m a self‑taught developer, always learning and experimenting with modern frontend practices and performance optimization. I’m interested in roles where I can help improve the product and grow as a frontend engineer.
+I also work with React and Next.js, but Vue is where I've spent most of my time.
 
-## GitHub Statistics :chart_with_upwards_trend:
+### What I've worked on
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navidjaberi&show_icons=true&locale=en&theme=radical" alt="navidjaberi" /></p>
+- **[Qman](https://qman.ir)**: led the frontend of a SaaS platform for cafes and restaurants. Three connected Nuxt 3 apps (public site, admin panel, owner dashboard) and live-editable menu templates that run as a PWA.
+- **[Dongi](https://dongi.ir)**: features for an internal CRM used daily by 50+ people, plus SEO landing pages with structured data. Remote, in a Scrum team.
+- **[Mizooni](https://mizooni.app)**: a women's health PWA built from scratch, with offline caching for users on unreliable connections.
+- **[Asia Salamat](http://asiasalamat.ir)**: a nurse booking PWA designed for elderly and non-technical users. The Nuxt structure I set up became the base the team kept building on.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navidjaberi&theme=radical" alt="navidjaberi" /></p>
+Most of this is closed source, so the links go to the live products.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navidjaberi&show_icons=true&locale=en&layout=compact&theme=radical" alt="navidjaberi" />
-</p>
+### Open source
 
-<br/>
+**[vue-smart-loading-kit](https://github.com/navidjaberi/vue-smart-loading-kit)**: loading UI for Vue 3 and Nuxt, with skeletons, spinners and progress bars. The part I care about most is `SmartLoader`, which decides whether a loader is worth showing at all, so fast requests don't cause a flash. Written in TypeScript, tested with Vitest, with coverage and mutation testing in CI.
 
-## **Technologies** ⚡️
- 
-- 💻  &nbsp; 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+**[Personal website](https://navidjaberi.vercel.app)**: Next.js and TypeScript, in English, Persian and Turkish, with dark and light themes.
 
-- 🌐  &nbsp; 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+### Tools I use
 
-- ⚙️  &nbsp; 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+**Daily:** Vue 3, Nuxt, TypeScript, Pinia, Tailwind CSS, Vite
+**Also:** React, Next.js, Vuetify, Quasar, Vitest, Jest, Vue Test Utils, Git, GitLab
+**Things I pay attention to:** SSR/SSG, PWAs, SEO, accessibility, RTL layouts, and component structure that stays readable as a project grows
 
+### Right now
 
-- 📁 &nbsp; 
-![Pinia](https://img.shields.io/badge/Pinia-AF33FF.svg?style=flat&logo=pinia&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)  
+Looking for a remote mid-level frontend role, ideally on a Vue/Nuxt product. I'm also writing about frontend on [dev.to](https://dev.to/navidjaberi) and slowly improving the loading kit.
 
-- 🛡️ &nbsp; 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
+### Contact
 
-
-- 🖥️  &nbsp; 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-![Less](https://img.shields.io/badge/less-2B4C80?style=flat&logo=less&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF)
-
-- ✍🏻  &nbsp; 
-![VS Code](https://img.shields.io/badge/VS%20Code-35b393.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
-- 🔗  &nbsp; 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-- ⚒️  &nbsp; 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-
-## Contact 👥
-
-<a href="mailto:dkpnavid@gmail.com)"><img src="https://github.com/navidjaberi/navidjaberi/blob/main/icons8-gmail-48.png?raw=true"/></a>
-<a href="https://www.linkedin.com/in/navid-jaberi-22497a21b"><img src="https://github.com/navidjaberi/navidjaberi/blob/main/icons8-linkedin-48%20(1).png?raw=true"/></a>
-<a href="https://www.instagram.com/navid.jbri"><img src="https://github.com/navidjaberi/navidjaberi/blob/main/icons8-instagram-48.png?raw=true"/></a>
-<a href="https://t.me/n_jaberii"><img src="https://github.com/navidjaberi/navidjaberi/blob/main/icons8-telegram-48.png?raw=true"/></a>
-
+[Email](mailto:navidjaberi5@gmail.com) · [LinkedIn](https://www.linkedin.com/in/navid-jaberi-22497a21b) · [Website](https://navidjaberi.vercel.app)
