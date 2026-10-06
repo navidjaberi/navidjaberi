@@ -8,7 +8,6 @@ I also work with React and Next.js, but Vue is where I've spent most of my time.
 
 - **[Qman](https://qman.ir)**: led the frontend of a SaaS platform for cafes and restaurants. Three connected Nuxt 3 apps (public site, admin panel, owner dashboard) and live-editable menu templates that run as a PWA.
 - **[Dongi](https://dongi.ir)**: features for an internal CRM used daily by 50+ people, plus SEO landing pages with structured data. Remote, in a Scrum team.
-- **[Asia Salamat](http://asiasalamat.ir)**: a nurse booking PWA designed for elderly and non-technical users.
 
 Most of this is closed source, so the links go to the live products.
 
