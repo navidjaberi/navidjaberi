@@ -21,8 +21,8 @@ I'm a frontend engineer who has spent the last four years building **Vue 3 and N
 ## 🧭 Where I've worked
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
-  <img src="assets/timeline-light.svg" alt="Experience timeline: Qman and Dongi" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
+  <img src="assets/experience-light.svg" alt="Experience timeline: Qman and Dongi" width="100%">
 </picture>
 
 <details>
