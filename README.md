@@ -22,7 +22,7 @@ I'm a frontend engineer who has spent the last four years building **Vue 3 and N
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
-  <img src="assets/timeline-light.svg" alt="Experience timeline from 2022 to today" width="100%">
+  <img src="assets/timeline-light.svg" alt="Experience timeline: Qman and Dongi" width="100%">
 </picture>
 
 <details>
@@ -32,9 +32,6 @@ I'm a frontend engineer who has spent the last four years building **Vue 3 and N
 
 - **[Dongi](https://dongi.ir)** · core features of an internal CRM (Nuxt 3, Vuetify, Tailwind) used daily by 50+ employees, including data tables with complex, combinable filters. Improved technical SEO on the main site, a server-rendered Quasar app, with Schema.org structured data (Lighthouse SEO: 100).
 - **[Qman](https://qman.ir)** · led the frontend of a SaaS platform for cafes and restaurants: three connected Nuxt 3 apps built from scratch (public site, admin panel, owner dashboard) and a menu editor whose changes go live instantly, delivered as a PWA.
-- **Mizooni** · key sections of a pre-launch women's health web app (Nuxt 3), with an animation-heavy, mobile-first UI, set up as an installable PWA.
-- **Asia Salamat** · a nurse booking PWA with accessible flows for elderly and non-technical users; designed its frontend architecture.
-
 Most of this is closed source, so the links go to the live products.
 
 </details>
