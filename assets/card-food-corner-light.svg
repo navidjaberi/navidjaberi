@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 250" width="490" height="250" role="img" aria-label="Food Corner: Customer and admin roles enforced with Row Level Security, server-side order pricing, CI running lint, tests and build.">
+<defs><linearGradient id="gc" x1="0" x2="1">
+      <stop offset="0" stop-color="#f6f8fa" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#f6f8fa" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#f6f8fa" stop-opacity="0"/></linearGradient></defs>
+<style>
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}
+  .t{fill:#1f2328} .m{fill:#59636e} .a{fill:#1f9d6b}
+  .sk{fill:#e8ebef}
+  @keyframes shimmer{0%{transform:translateX(-300px)}100%{transform:translateX(1300px)}}
+  .shine{animation:shimmer 1.6s linear infinite}
+  @keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  @keyframes fadeOut{to{opacity:0}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important} .reveal{opacity:1!important} .skel-phase{opacity:0}}
+ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes pulse{50%{opacity:.35}}
+  @keyframes ring{0%,10%{stroke-dashoffset:var(--c)}55%,90%{stroke-dashoffset:var(--o)}100%{stroke-dashoffset:var(--c)}}
+  @keyframes hop{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+  @keyframes cycle3{0%,30%{opacity:1}33%,97%{opacity:0}100%{opacity:1}}
+</style>
+<rect x=".5" y=".5" width="489" height="249" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="24" y="44" class="mono a" font-size="11.5" letter-spacing="1">FULL-STACK · ORDERING APP</text>
+<text x="24" y="76" class="t" font-size="23" font-weight="700" letter-spacing="-.4">Food Corner</text>
+<text x="24" y="110" class="m" font-size="13.5">Customer and admin roles enforced with Row</text><text x="24" y="131" class="m" font-size="13.5">Level Security, server-side order pricing,</text><text x="24" y="152" class="m" font-size="13.5">CI running lint, tests and build.</text><rect x="24" y="206" width="64" height="24" rx="12" fill="none" stroke="#d0d7de"/><text x="56" y="222" text-anchor="middle" class="m" font-size="11.5">Next.js</text><rect x="96.4" y="206" width="115" height="24" rx="12" fill="none" stroke="#d0d7de"/><text x="154" y="222" text-anchor="middle" class="m" font-size="11.5">Server Actions</text><rect x="219.2" y="206" width="72" height="24" rx="12" fill="none" stroke="#d0d7de"/><text x="255" y="222" text-anchor="middle" class="m" font-size="11.5">Supabase</text>
+<g><g style="animation:hop 2.4s ease-in-out 0.0s infinite"><rect x="318" y="52" width="64" height="22" rx="11" fill="#0969da" fill-opacity=".15" stroke="#0969da" stroke-opacity=".6"/><text x="350" y="67" text-anchor="middle" font-size="10.5" font-weight="600" fill="#0969da">customer</text></g><g style="animation:hop 2.4s ease-in-out 1.2s infinite"><rect x="390" y="52" width="64" height="22" rx="11" fill="#1f9d6b" fill-opacity=".15" stroke="#1f9d6b" stroke-opacity=".6"/><text x="422" y="67" text-anchor="middle" font-size="10.5" font-weight="600" fill="#1f9d6b">admin</text></g><path d="M350 76 V92 M422 76 V92 M350 92 H422" stroke="#d0d7de" fill="none"/>
+<rect x="349" y="92" width="74" height="24" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<text x="386" y="108" text-anchor="middle" class="mono m" font-size="10.5">RLS 🔒</text></g>
+<text x="466" y="44" text-anchor="end" class="m" font-size="18">↗</text>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-label="Navid Jaberi, Frontend Engineer, Vue.js and Nuxt">
+<title>Navid Jaberi, Frontend Engineer (Vue.js / Nuxt)</title>
+<defs><linearGradient id="gh" x1="0" x2="1">
+      <stop offset="0" stop-color="#30363d" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#30363d" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#30363d" stop-opacity="0"/></linearGradient><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#1c2128"/></pattern>
+  <clipPath id="left"><rect x="40" y="80" width="440" height="200"/></clipPath>
+  <clipPath id="card"><rect x="560" y="46" width="392" height="230" rx="14"/></clipPath>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#42b883" stop-opacity=".18"/><stop offset="1" stop-color="#35a0ff" stop-opacity=".10"/></linearGradient>
+</defs>
+<style>
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}
+  .t{fill:#e6edf3} .m{fill:#8b949e} .a{fill:#42b883}
+  .sk{fill:#21262d}
+  @keyframes shimmer{0%{transform:translateX(-300px)}100%{transform:translateX(1300px)}}
+  .shine{animation:shimmer 1.6s linear infinite}
+  @keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  @keyframes fadeOut{to{opacity:0}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important} .reveal{opacity:1!important} .skel-phase{opacity:0}}
+
+  .skel-phase{animation:fadeOut .45s ease 1.9s forwards}
+  .reveal{opacity:0;animation:fadeIn .6s cubic-bezier(.2,.7,.2,1) forwards}
+  .d1{animation-delay:2.0s} .d2{animation-delay:2.15s} .d3{animation-delay:2.3s} .d4{animation-delay:2.45s}
+  @keyframes caret{50%{opacity:0}} .caret{animation:caret 1s steps(1) infinite}
+  /* looping demo card: 7s cycle, skeleton for the first 2s */
+  @keyframes cardSkel{0%,26%{opacity:1}31%,94%{opacity:0}100%{opacity:1}}
+  @keyframes cardReal{0%,26%{opacity:0}31%,94%{opacity:1}100%{opacity:0}}
+  @keyframes bar{0%,30%{width:0}60%,94%{width:250px}100%{width:0}}
+  @keyframes flag{0%,26%{opacity:1}30%,94%{opacity:0}100%{opacity:1}}
+  @keyframes flag2{0%,26%{opacity:0}30%,94%{opacity:1}100%{opacity:0}}
+  .cs{animation:cardSkel 7s infinite} .cr{animation:cardReal 7s infinite} .bar{animation:bar 7s ease-in-out infinite}
+  .f1{animation:flag 7s infinite} .f2{animation:flag2 7s infinite}
+</style>
+<rect width="1000" height="320" rx="18" fill="#0d1117"/>
+<rect width="1000" height="320" rx="18" fill="url(#dots)"/>
+<rect width="1000" height="320" rx="18" fill="url(#glow)"/>
+<rect x=".5" y=".5" width="999" height="319" rx="18" fill="none" stroke="#30363d"/>
+
+<text x="48" y="58" class="mono m" font-size="14">&lt;section <tspan class="a">v-skeleton</tspan>=<tspan fill="#f5a524">"loading"</tspan>&gt;</text>
+
+<g class="skel-phase"><rect class="sk" x="48" y="92" width="330" height="46" rx="8"/><rect class="sk" x="48" y="158" width="380" height="20" rx="8"/><rect class="sk" x="48" y="196" width="300" height="16" rx="8.0"/><rect class="sk" x="48" y="236" width="120" height="30" rx="8"/><rect class="sk" x="180" y="236" width="120" height="30" rx="8"/>
+  <g clip-path="url(#left)"><rect class="shine" x="0" y="80" width="300" height="200" fill="url(#gh)"/></g></g>
+
+<g class="sans">
+  <text x="46" y="132" class="t reveal d1" font-size="46" font-weight="700" letter-spacing="-1">Navid Jaberi</text>
+  <text x="48" y="174" class="t reveal d2" font-size="21" font-weight="600">Frontend Engineer <tspan class="m" font-weight="400">·</tspan> <tspan class="a">Vue.js / Nuxt</tspan></text>
+  <text x="48" y="208" class="m reveal d3" font-size="15">Building products people use every day, since 2021</text>
+  <g class="reveal d4">
+    <rect x="48" y="236" width="150" height="30" rx="15" fill="#1f2a24" stroke="#42b883" stroke-opacity=".5"/>
+    <circle cx="66" cy="251" r="4.5" fill="#42b883"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="78" y="256" class="a" font-size="13" font-weight="600">Open to remote</text>
+    <rect x="208" y="236" width="222" height="30" rx="15" fill="none" stroke="#30363d"/>
+    <text x="224" y="256" class="m" font-size="13">Tehran, Iran ⇄ Famagusta, Cyprus</text>
+  </g>
+</g>
+<text x="48" y="300" class="mono m reveal d4" font-size="14">&lt;/section&gt;  <tspan class="a">// loading = false</tspan><tspan class="caret a">▍</tspan></text>
+
+<!-- browser mock -->
+<g>
+  <rect x="560" y="46" width="392" height="230" rx="14" fill="#161b22" stroke="#30363d"/>
+  <circle cx="580" cy="66" r="5" fill="#ff5f57"/><circle cx="598" cy="66" r="5" fill="#febc2e"/><circle cx="616" cy="66" r="5" fill="#28c840"/>
+  <rect x="640" y="57" width="230" height="18" rx="9" fill="#0d1117" stroke="#30363d"/>
+  <text x="652" y="70" class="mono m" font-size="10.5">navidjaberi.vercel.app</text>
+  <line x1="560" y1="86" x2="952" y2="86" stroke="#30363d"/>
+  <!-- progress bar on top -->
+  <rect class="bar" x="561" y="86" height="2.5" width="0" fill="#42b883"/>
+  <g clip-path="url(#card)">
+    <g class="cs">
+      <circle cx="610" cy="132" r="24" class="sk"/>
+      <rect x="648" y="116" width="160" height="14" rx="7" class="sk"/>
+      <rect x="648" y="138" width="110" height="10" rx="5" class="sk"/>
+      <rect x="586" y="176" width="340" height="10" rx="5" class="sk"/>
+      <rect x="586" y="196" width="300" height="10" rx="5" class="sk"/>
+      <rect x="586" y="228" width="96" height="26" rx="8" class="sk"/>
+      <rect x="692" y="228" width="96" height="26" rx="8" class="sk"/>
+      <rect x="798" y="228" width="96" height="26" rx="8" class="sk"/>
+      <rect class="shine" x="260" y="87" width="300" height="230" fill="url(#gh)"/>
+    </g>
+    <g class="cr sans" opacity="0">
+      <circle cx="610" cy="132" r="24" fill="#42b883"/>
+      <text x="610" y="139" text-anchor="middle" font-size="19" font-weight="700" fill="#0d1117">NJ</text>
+      <text x="648" y="128" class="t" font-size="16" font-weight="700">Hi, I'm Navid 👋</text>
+      <text x="648" y="148" class="m" font-size="12">4+ years of Vue 3 &amp; Nuxt</text>
+      <text x="586" y="186" class="t" font-size="12.5">I build fast, accessible, well-tested interfaces</text>
+      <text x="586" y="206" class="m" font-size="12.5">and I care about what users see while they wait.</text>
+      <rect x="586" y="228" width="96" height="26" rx="8" fill="#1f2a24" stroke="#42b883" stroke-opacity=".55"/><text x="634" y="245" text-anchor="middle" font-size="12" font-weight="600" fill="#42b883">Vue / Nuxt</text><rect x="692" y="228" width="96" height="26" rx="8" fill="#1f2a24" stroke="#35a0ff" stroke-opacity=".55"/><text x="740" y="245" text-anchor="middle" font-size="12" font-weight="600" fill="#35a0ff">TypeScript</text><rect x="798" y="228" width="96" height="26" rx="8" fill="#1f2a24" stroke="#f5a524" stroke-opacity=".55"/><text x="846" y="245" text-anchor="middle" font-size="12" font-weight="600" fill="#f5a524">Testing</text>
+    </g>
+  </g>
+  <text x="938" y="298" text-anchor="end" class="mono m" font-size="11"><tspan class="f1">SmartLoader: waiting…</tspan></text>
+  <text x="938" y="298" text-anchor="end" class="mono a" font-size="11"><tspan class="f2" opacity="0">SmartLoader: loaded, no flash ✓</tspan></text>
+</g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 250" width="490" height="250" role="img" aria-label="Vue Smart Loading Kit: Skeletons, spinners and progress bars for Vue 3 and Nuxt. SmartLoader decides if a loader is worth showing, so fast requests never flash.">
+<defs><linearGradient id="gc" x1="0" x2="1">
+      <stop offset="0" stop-color="#f6f8fa" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#f6f8fa" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#f6f8fa" stop-opacity="0"/></linearGradient></defs>
+<style>
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}
+  .t{fill:#1f2328} .m{fill:#59636e} .a{fill:#1f9d6b}
+  .sk{fill:#e8ebef}
+  @keyframes shimmer{0%{transform:translateX(-300px)}100%{transform:translateX(1300px)}}
+  .shine{animation:shimmer 1.6s linear infinite}
+  @keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  @keyframes fadeOut{to{opacity:0}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important} .reveal{opacity:1!important} .skel-phase{opacity:0}}
+ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes pulse{50%{opacity:.35}}
+  @keyframes ring{0%,10%{stroke-dashoffset:var(--c)}55%,90%{stroke-dashoffset:var(--o)}100%{stroke-dashoffset:var(--c)}}
+  @keyframes hop{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+  @keyframes cycle3{0%,30%{opacity:1}33%,97%{opacity:0}100%{opacity:1}}
+</style>
+<rect x=".5" y=".5" width="489" height="249" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="24" y="44" class="mono a" font-size="11.5" letter-spacing="1">OPEN SOURCE · NPM</text>
+<text x="24" y="76" class="t" font-size="23" font-weight="700" letter-spacing="-.4">Vue Smart Loading Kit</text>
+<text x="24" y="110" class="m" font-size="13.5">Skeletons, spinners and progress bars for Vue 3</text><text x="24" y="131" class="m" font-size="13.5">and Nuxt. SmartLoader decides if a loader is</text><text x="24" y="152" class="m" font-size="13.5">worth showing, so fast requests never flash.</text><rect x="24" y="206" width="50" height="24" rx="12" fill="none" stroke="#d0d7de"/><text x="49" y="222" text-anchor="middle" class="m" font-size="11.5">Vue 3</text><rect x="82.0" y="206" width="86" height="24" rx="12" fill="none" stroke="#d0d7de"/><text x="125" y="222" text-anchor="middle" class="m" font-size="11.5">TypeScript</text><rect x="176.0" y="206" width="57" height="24" rx="12" fill="none" stroke="#d0d7de"/><text x="205" y="222" text-anchor="middle" class="m" font-size="11.5">Vitest</text><rect x="241.2" y="206" width="64" height="24" rx="12" fill="none" stroke="#d0d7de"/><text x="273" y="222" text-anchor="middle" class="m" font-size="11.5">Stryker</text>
+<g><rect x="300" y="52" width="132" height="12" rx="6" class="sk"/><rect x="300" y="72" width="96" height="12" rx="6" class="sk"/>
+<clipPath id="skc"><rect x="300" y="52" width="132" height="12" rx="6"/><rect x="300" y="72" width="96" height="12" rx="6"/></clipPath>
+<g clip-path="url(#skc)"><rect x="220" y="52" width="80" height="32" fill="url(#gc)" style="animation:mini 1.4s linear infinite"/></g>
+<style>@keyframes mini{from{transform:translateX(0)}to{transform:translateX(220px)}}</style>
+<g transform="translate(456 68)"><circle r="13" fill="none" stroke="#e8ebef" stroke-width="4"/>
+<circle r="13" fill="none" stroke="#1f9d6b" stroke-width="4" stroke-linecap="round" stroke-dasharray="22 60"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur=".9s" repeatCount="indefinite"/></circle></g></g>
+<text x="466" y="44" text-anchor="end" class="m" font-size="18">↗</text>
+</svg>
