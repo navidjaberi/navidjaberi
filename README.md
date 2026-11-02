@@ -11,32 +11,18 @@
 <a href="https://www.npmjs.com/package/vue-smart-loading-kit"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 </p>
 
-I'm a full-stack engineer with a strong frontend core. For four years I've built **Vue 3 and Nuxt** products people use every day: a digital menu platform for cafes and restaurants, an internal CRM, and PWAs for healthcare services. Most recently I rebuilt an advertising agency's WordPress site as a **full-stack Nuxt 4 + PostgreSQL** app, as the only developer: a booking engine, role-based auth, 360+ tests and a Docker production stack. I also build with React and Next.js, and I work daily with Claude Code, Codex and Copilot, with tests and types keeping them honest.
+I'm a full-stack engineer with a strong frontend core and 4+ years of shipping **Vue 3 and Nuxt** products that people use every day. The work I'm proudest of:
+
+- **[Golfam](https://golfamagency.ir)** · I rebuilt an advertising agency's WordPress site as a full-stack Nuxt 4 + PostgreSQL app, on my own, from the database schema to the Docker deploy.
+- **[Vue Smart Loading Kit](https://github.com/navidjaberi/vue-smart-loading-kit)** · my open-source Vue 3 library on npm, backed by 1,400+ tests, 100% line coverage and a 90%+ mutation score.
+- **[Dongi](https://dongi.ir)** · an internal Nuxt CRM that 50+ employees work in every day.
+
+I also build with React and Next.js, and I work daily with Claude Code, Codex and Copilot, with tests and types keeping them honest.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" alt="4+ years of Vue and Nuxt, 360+ tests on a full-stack Nuxt app, server response cut from 2.25 s to 25 ms, 50+ daily users on a CRM" width="100%">
+  <img src="assets/stats-light.svg" alt="25 ms server response on Golfam (was 2.25 s), monthly npm downloads of Vue Smart Loading Kit, 50+ employees on the Dongi CRM daily, GitHub contributions this year" width="100%">
 </picture>
-
-## 🧭 Where I've worked
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
-  <img src="assets/experience-light.svg" alt="Experience timeline: Golfam, Dongi and Qman" width="100%">
-</picture>
-
-<details>
-<summary><b>What I did there</b></summary>
-
-<br>
-
-- **[Golfam](https://golfamagency.ir)** · rebuilt an outdoor-advertising agency's WordPress/WooCommerce site (150+ billboards) as a full-stack Nuxt 4 + PostgreSQL app: a public catalogue, a customer panel and a staff admin, each an installable PWA. I designed a 20-table schema with a booking engine that makes double booking impossible at the database level, and built the Node.js backend (89 API routes, Zod validation, SMS one-time-code login, revocable sessions, role-based access). Migrated 300 indexed URLs without changing any of them and cut server response time from 2.25 s to 10–25 ms. Ships on Docker Compose, Nginx and GitHub Actions.
-- **[Dongi](https://dongi.ir)** · core features of an internal CRM (Nuxt 3, Vuetify, Tailwind) used daily by 50+ employees, including data tables with complex, combinable filters. Improved technical SEO on the main site, a server-rendered Quasar app, with Schema.org structured data (Lighthouse SEO: 100).
-- **[Qman](https://qman.ir)** · led the frontend of a SaaS platform for cafes and restaurants: three connected Nuxt 3 apps built from scratch (public site, admin panel, owner dashboard) and a menu editor whose changes go live instantly, delivered as a PWA.
-
-Most of this is closed source, so the links go to the live products.
-
-</details>
 
 ## 🚀 Things I've built
 
@@ -54,24 +40,24 @@ Most of this is closed source, so the links go to the live products.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/navidjaberi/fitplate"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-fitplate-dark.svg">
-  <img src="assets/card-fitplate-light.svg" alt="FitPlate" width="100%">
+<a href="https://golfamagency.ir"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-golfam-dark.svg">
+  <img src="assets/card-golfam-light.svg" alt="Golfam" width="100%">
 </picture></a>
 
-<p align="center"><a href="https://fitplate-neon.vercel.app/">live demo</a></p>
+<p align="center"><a href="https://golfamagency.ir">golfamagency.ir</a> · client project, private code</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/navidjaberi/food-corner"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-food-corner-dark.svg">
-  <img src="assets/card-food-corner-light.svg" alt="Food Corner" width="100%">
+<a href="https://github.com/navidjaberi/fitplate"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-fitplate-dark.svg">
+  <img src="assets/card-fitplate-light.svg" alt="FitPlate" width="100%">
 </picture></a>
 
-<p align="center"><a href="https://food-corner-beta-gray.vercel.app">live demo</a></p>
+<p align="center"><a href="https://fitplate-neon.vercel.app/">live demo</a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -86,6 +72,39 @@ Most of this is closed source, so the links go to the live products.
 </td>
 </tr>
 </table>
+
+## 🧭 Where I've worked
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
+  <img src="assets/experience-light.svg" alt="Experience timeline: Golfam 2026 to now, Dongi 2025 to 2026, Qman 2024 to 2026" width="100%">
+</picture>
+
+<details>
+<summary><b>What I did there</b></summary>
+
+<br>
+
+- **[Golfam](https://golfamagency.ir)** · Freelance, sole developer. Replaced a WordPress/WooCommerce site for 150+ billboards with a public catalogue, a customer panel and a staff admin, each an installable PWA.
+  - A 20-table PostgreSQL schema with a booking engine where double booking is impossible at the database level, proven by concurrency tests
+  - A Node.js backend with 89 API routes, Zod validation, SMS one-time-code login, revocable sessions and role-based access
+  - 300 indexed URLs migrated without changing a single one, and server response cut from 2.25 s to 10–25 ms with SSR and caching
+  - 360+ tests, shipped on Docker Compose, Nginx and GitHub Actions
+- **[Dongi](https://dongi.ir)** · Full-time, remote. Built core features of an internal CRM (Nuxt 3, Vuetify, Tailwind) used daily by 50+ employees, including data tables with complex, combinable filters. Took the main site, a server-rendered Quasar app, to a Lighthouse SEO score of 100 with Schema.org structured data.
+- **[Qman](https://qman.ir)** · Part-time, led the frontend. Built three connected Nuxt 3 apps from scratch for a cafe and restaurant menu platform (public site, admin panel, owner dashboard), including a menu editor whose changes go live instantly.
+
+The client code is private, so the links go to the live products.
+
+</details>
+
+## 📈 On GitHub lately
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img src="assets/activity-light.svg" alt="GitHub contribution heatmap for the last 12 months" width="100%">
+</picture>
+
+<p align="center"><sub>Refreshed every day by a GitHub Action in this repo.</sub></p>
 
 ## 🧰 Toolbox
 
@@ -105,7 +124,7 @@ Most of this is closed source, so the links go to the live products.
 ## 🌱 Right now
 
 - Looking for a **remote full-stack role** with growing backend ownership, ideally on a Vue/Nuxt product
-- Shipping the Golfam rebuild, improving the loading kit, and building small product experiments like FitPlate
+- Shipping Golfam and growing the loading kit
 - Writing about frontend on [dev.to](https://dev.to/navidjaberi)
 
 <picture>

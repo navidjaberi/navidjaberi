@@ -1,27 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="1000" height="130" role="img" aria-label="4+ years of Vue and Nuxt; 360+ tests on a full-stack Nuxt app; server response cut from 2.25 s to 25 ms; 50+ daily users on a CRM">
-<style>
-  .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace}
-  .t{fill:#1f2328} .m{fill:#59636e} .a{fill:#1f9d6b}
-  .sk{fill:#e8ebef}
-  @keyframes shimmer{0%{transform:translateX(-300px)}100%{transform:translateX(1300px)}}
-  .shine{animation:shimmer 1.6s linear infinite}
-  @keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
-  @keyframes fadeOut{to{opacity:0}}
-  @media (prefers-reduced-motion:reduce){*{animation:none!important} .reveal{opacity:1!important} .skel-phase{opacity:0}}
- .tile{opacity:0;animation:fadeIn .6s ease forwards} text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}</style><g class="tile" style="animation-delay:0.00s">
-  <rect x="0.5" y=".5" width="237.0" height="129" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
-  <rect x="20.0" y="22" width="28" height="4" rx="2" fill="#1f9d6b"/>
-  <text x="20.0" y="78" font-size="40" font-weight="700" fill="#1f9d6b" letter-spacing="-1">4+</text>
-  <text x="20.0" y="106" font-size="14" class="m">years of Vue &amp; Nuxt</text></g><g class="tile" style="animation-delay:0.15s">
-  <rect x="254.5" y=".5" width="237.0" height="129" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
-  <rect x="274.0" y="22" width="28" height="4" rx="2" fill="#0969da"/>
-  <text x="274.0" y="78" font-size="40" font-weight="700" fill="#0969da" letter-spacing="-1">360+</text>
-  <text x="274.0" y="106" font-size="14" class="m">tests on a full-stack Nuxt app</text></g><g class="tile" style="animation-delay:0.30s">
-  <rect x="508.5" y=".5" width="237.0" height="129" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
-  <rect x="528.0" y="22" width="28" height="4" rx="2" fill="#bf7a00"/>
-  <text x="528.0" y="78" font-size="40" font-weight="700" fill="#bf7a00" letter-spacing="-1">25 ms</text>
-  <text x="528.0" y="106" font-size="14" class="m">server response (was 2.25 s)</text></g><g class="tile" style="animation-delay:0.45s">
-  <rect x="762.5" y=".5" width="237.0" height="129" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
-  <rect x="782.0" y="22" width="28" height="4" rx="2" fill="#1f9d6b"/>
-  <text x="782.0" y="78" font-size="40" font-weight="700" fill="#1f9d6b" letter-spacing="-1">50+</text>
-  <text x="782.0" y="106" font-size="14" class="m">daily users on a CRM I built</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 130" width="1000" height="130" role="img" aria-label="25 ms server response (was 2.25 s) (Golfam); 1.2k npm downloads last month (Loading Kit); 50+ employees on my CRM daily (Dongi); 810 contributions this year (Github)">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace} @keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}} .tile{opacity:0;animation:fadeIn .6s ease forwards} @media (prefers-reduced-motion:reduce){.tile{opacity:1;animation:none}}</style>
+<g class="tile" style="animation-delay:0.00s"><rect x="0.5" y=".5" width="237" height="129" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><rect x="20" y="22" width="28" height="4" rx="2" fill="#bf7a00"/><text x="218" y="28" text-anchor="end" class="mono" font-size="10.5" letter-spacing="1" fill="#59636e">GOLFAM</text><text x="20" y="78" font-size="40" font-weight="700" fill="#bf7a00" letter-spacing="-1">25 ms</text><text x="20" y="106" font-size="14" fill="#59636e">server response (was 2.25 s)</text></g>
+<g class="tile" style="animation-delay:0.15s"><rect x="254.5" y=".5" width="237" height="129" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><rect x="274" y="22" width="28" height="4" rx="2" fill="#1f9d6b"/><text x="472" y="28" text-anchor="end" class="mono" font-size="10.5" letter-spacing="1" fill="#59636e">LOADING KIT</text><text x="274" y="78" font-size="40" font-weight="700" fill="#1f9d6b" letter-spacing="-1">1.2k</text><text x="274" y="106" font-size="14" fill="#59636e">npm downloads last month</text></g>
+<g class="tile" style="animation-delay:0.30s"><rect x="508.5" y=".5" width="237" height="129" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><rect x="528" y="22" width="28" height="4" rx="2" fill="#0969da"/><text x="726" y="28" text-anchor="end" class="mono" font-size="10.5" letter-spacing="1" fill="#59636e">DONGI</text><text x="528" y="78" font-size="40" font-weight="700" fill="#0969da" letter-spacing="-1">50+</text><text x="528" y="106" font-size="14" fill="#59636e">employees on my CRM daily</text></g>
+<g class="tile" style="animation-delay:0.45s"><rect x="762.5" y=".5" width="237" height="129" rx="14" fill="#f6f8fa" stroke="#d0d7de"/><rect x="782" y="22" width="28" height="4" rx="2" fill="#1f9d6b"/><text x="980" y="28" text-anchor="end" class="mono" font-size="10.5" letter-spacing="1" fill="#59636e">GITHUB</text><text x="782" y="78" font-size="40" font-weight="700" fill="#1f9d6b" letter-spacing="-1">810</text><text x="782" y="106" font-size="14" fill="#59636e">contributions this year</text></g>
+</svg>
