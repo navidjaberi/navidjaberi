@@ -51,8 +51,8 @@
     <rect x="48" y="236" width="150" height="30" rx="15" fill="#1f2a24" stroke="#42b883" stroke-opacity=".5"/>
     <circle cx="66" cy="251" r="4.5" fill="#42b883"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
     <text x="78" y="256" class="a" font-size="13" font-weight="600">Open to remote</text>
-    <rect x="208" y="236" width="222" height="30" rx="15" fill="none" stroke="#30363d"/>
-    <text x="224" y="256" class="m" font-size="13">Tehran, Iran ⇄ Famagusta, Cyprus</text>
+    <rect x="208" y="236" width="178" height="30" rx="15" fill="none" stroke="#30363d"/>
+    <text x="224" y="256" class="m" font-size="13">Tehran, Iran · UTC+3:30</text>
   </g>
 </g>
 <text x="48" y="300" class="mono m reveal d4" font-size="14">&lt;/section&gt;  <tspan class="a">// loading = false</tspan><tspan class="caret a">▍</tspan></text>

@@ -21,7 +21,7 @@ I also build with React and Next.js, and I work daily with Claude Code, Codex an
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" alt="25 ms server response on Golfam (was 2.25 s), monthly npm downloads of Vue Smart Loading Kit, 50+ employees on the Dongi CRM daily, GitHub contributions this year" width="100%">
+  <img src="assets/stats-light.svg" alt="25 ms server response on Golfam (was 2.25 s), 1,400+ tests with 100% line coverage on Vue Smart Loading Kit, 50+ employees on the Dongi CRM daily, GitHub contributions this year" width="100%">
 </picture>
 
 ## 🚀 Things I've built
@@ -72,30 +72,6 @@ I also build with React and Next.js, and I work daily with Claude Code, Codex an
 </td>
 </tr>
 </table>
-
-## 🧭 Where I've worked
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
-  <img src="assets/experience-light.svg" alt="Experience timeline: Golfam 2026 to now, Dongi 2025 to 2026, Qman 2024 to 2026" width="100%">
-</picture>
-
-<details>
-<summary><b>What I did there</b></summary>
-
-<br>
-
-- **[Golfam](https://golfamagency.ir)** · Freelance, sole developer. Replaced a WordPress/WooCommerce site for 150+ billboards with a public catalogue, a customer panel and a staff admin, each an installable PWA.
-  - A 20-table PostgreSQL schema with a booking engine where double booking is impossible at the database level, proven by concurrency tests
-  - A Node.js backend with 89 API routes, Zod validation, SMS one-time-code login, revocable sessions and role-based access
-  - 300 indexed URLs migrated without changing a single one, and server response cut from 2.25 s to 10–25 ms with SSR and caching
-  - 360+ tests, shipped on Docker Compose, Nginx and GitHub Actions
-- **[Dongi](https://dongi.ir)** · Full-time, remote. Built core features of an internal CRM (Nuxt 3, Vuetify, Tailwind) used daily by 50+ employees, including data tables with complex, combinable filters. Took the main site, a server-rendered Quasar app, to a Lighthouse SEO score of 100 with Schema.org structured data.
-- **[Qman](https://qman.ir)** · Part-time, led the frontend. Built three connected Nuxt 3 apps from scratch for a cafe and restaurant menu platform (public site, admin panel, owner dashboard), including a menu editor whose changes go live instantly.
-
-The client code is private, so the links go to the live products.
-
-</details>
 
 ## 📈 On GitHub lately
 

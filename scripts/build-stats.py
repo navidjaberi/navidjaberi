@@ -1,11 +1,10 @@
-"""Rebuild the stats tiles and the activity heatmap from live GitHub and npm data.
+"""Rebuild the stats tiles and the activity heatmap from live GitHub data.
 
 Run by .github/workflows/stats.yml every day. Needs GITHUB_TOKEN in the environment.
 """
 import datetime, json, os, pathlib, urllib.request
 
 USER = "navidjaberi"
-PACKAGE = "vue-smart-loading-kit"
 ASSETS = pathlib.Path(__file__).resolve().parent.parent / "assets"
 
 THEMES = {
@@ -35,14 +34,10 @@ def contributions(token):
     return data["data"]["user"]["contributionsCollection"]["contributionCalendar"]
 
 
-def short(n):
-    return f"{n / 1000:.1f}".rstrip("0").rstrip(".") + "k" if n >= 1000 else str(n)
-
-
-def stats_svg(p, downloads, total):
+def stats_svg(p, total):
     tiles = [  # value, label, tag, color
         ("25 ms", "server response (was 2.25 s)", "GOLFAM", "amber"),
-        (short(downloads), "npm downloads last month", "LOADING KIT", "green"),
+        ("1,400+", "tests, 100% line coverage", "LOADING KIT", "green"),
         ("50+", "employees on my CRM daily", "DONGI", "blue"),
         (str(total), "contributions this year", "GITHUB", "green"),
     ]
@@ -109,11 +104,10 @@ def activity_svg(p, cal):
 def main():
     token = os.environ["GITHUB_TOKEN"]
     cal = contributions(token)
-    downloads = fetch_json(f"https://api.npmjs.org/downloads/point/last-month/{PACKAGE}")["downloads"]
     for theme, p in THEMES.items():
-        (ASSETS / f"stats-{theme}.svg").write_text(stats_svg(p, downloads, cal["totalContributions"]))
+        (ASSETS / f"stats-{theme}.svg").write_text(stats_svg(p, cal["totalContributions"]))
         (ASSETS / f"activity-{theme}.svg").write_text(activity_svg(p, cal))
-    print(f"contributions={cal['totalContributions']} downloads={downloads}")
+    print(f"contributions={cal['totalContributions']}")
 
 
 if __name__ == "__main__":
