@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Navid Jaberi, Frontend Engineer, Vue.js / Nuxt" width="100%">
+  <img src="assets/header-light.svg" alt="Navid Jaberi, Full-Stack Engineer, Vue / Nuxt / Node.js" width="100%">
 </picture>
 
 <p align="center">
@@ -11,18 +11,18 @@
 <a href="https://www.npmjs.com/package/vue-smart-loading-kit"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 </p>
 
-I'm a frontend engineer who has spent the last four years building **Vue 3 and Nuxt** products people use every day: a digital menu platform for cafes and restaurants, an internal CRM, and PWAs for healthcare services. I also build with React and Next.js. I test what I ship, and I work daily with Claude Code, Codex and Copilot, with tests and types keeping them honest.
+I'm a full-stack engineer with a strong frontend core. For four years I've built **Vue 3 and Nuxt** products people use every day: a digital menu platform for cafes and restaurants, an internal CRM, and PWAs for healthcare services. Most recently I rebuilt an advertising agency's WordPress site as a **full-stack Nuxt 4 + PostgreSQL** app, as the only developer: a booking engine, role-based auth, 360+ tests and a Docker production stack. I also build with React and Next.js, and I work daily with Claude Code, Codex and Copilot, with tests and types keeping them honest.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img src="assets/stats-light.svg" alt="4+ years of Vue and Nuxt, 3 Nuxt apps built from scratch, 50+ daily users on a CRM, Lighthouse SEO score 100" width="100%">
+  <img src="assets/stats-light.svg" alt="4+ years of Vue and Nuxt, 360+ tests on a full-stack Nuxt app, server response cut from 2.25 s to 25 ms, 50+ daily users on a CRM" width="100%">
 </picture>
 
 ## 🧭 Where I've worked
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
-  <img src="assets/experience-light.svg" alt="Experience timeline: Qman and Dongi" width="100%">
+  <img src="assets/experience-light.svg" alt="Experience timeline: Golfam, Dongi and Qman" width="100%">
 </picture>
 
 <details>
@@ -30,6 +30,7 @@ I'm a frontend engineer who has spent the last four years building **Vue 3 and N
 
 <br>
 
+- **[Golfam](https://golfamagency.ir)** · rebuilt an outdoor-advertising agency's WordPress/WooCommerce site (150+ billboards) as a full-stack Nuxt 4 + PostgreSQL app: a public catalogue, a customer panel and a staff admin, each an installable PWA. I designed a 20-table schema with a booking engine that makes double booking impossible at the database level, and built the Node.js backend (89 API routes, Zod validation, SMS one-time-code login, revocable sessions, role-based access). Migrated 300 indexed URLs without changing any of them and cut server response time from 2.25 s to 10–25 ms. Ships on Docker Compose, Nginx and GitHub Actions.
 - **[Dongi](https://dongi.ir)** · core features of an internal CRM (Nuxt 3, Vuetify, Tailwind) used daily by 50+ employees, including data tables with complex, combinable filters. Improved technical SEO on the main site, a server-rendered Quasar app, with Schema.org structured data (Lighthouse SEO: 100).
 - **[Qman](https://qman.ir)** · led the frontend of a SaaS platform for cafes and restaurants: three connected Nuxt 3 apps built from scratch (public site, admin panel, owner dashboard) and a menu editor whose changes go live instantly, delivered as a PWA.
 
@@ -89,11 +90,13 @@ Most of this is closed source, so the links go to the live products.
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,pinia,tailwind,vuetify,vite&perline=7" alt="Vue, Nuxt, TypeScript, Pinia, Tailwind CSS, Vuetify, Vite"><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,supabase,vitest,githubactions,docker,figma&perline=7" alt="React, Next.js, Supabase, Vitest, GitHub Actions, Docker, Figma">
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,react,nextjs,tailwind,vite&perline=7" alt="Vue, Nuxt, TypeScript, React, Next.js, Tailwind CSS, Vite"><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,nginx,githubactions,vitest,figma&perline=7" alt="Node.js, PostgreSQL, Docker, Nginx, GitHub Actions, Vitest, Figma">
 </p>
 
 <p align="center">
+  <b>Frontend</b> Vue 3 · Nuxt 3/4 · Pinia · React 19 · Next.js · Vuetify · Quasar · shadcn/vue<br>
+  <b>Backend</b> Node.js (Nitro) · REST APIs · Zod · PostgreSQL · Drizzle ORM · auth &amp; role-based access<br>
   <b>Testing</b> Vitest · Vue Test Utils · Testing Library · Playwright · Stryker<br>
   <b>AI</b> Claude Code · Codex · Copilot · LLM APIs with vision and structured output<br>
   <b>I care about</b> SSR/SSG · PWAs · SEO · accessibility · RTL layouts · readable component structure
@@ -101,8 +104,8 @@ Most of this is closed source, so the links go to the live products.
 
 ## 🌱 Right now
 
-- Looking for a **remote mid-level frontend role**, ideally on a Vue/Nuxt product
-- Improving the loading kit and building small product experiments like FitPlate
+- Looking for a **remote full-stack role** with growing backend ownership, ideally on a Vue/Nuxt product
+- Shipping the Golfam rebuild, improving the loading kit, and building small product experiments like FitPlate
 - Writing about frontend on [dev.to](https://dev.to/navidjaberi)
 
 <picture>
