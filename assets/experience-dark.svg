@@ -24,7 +24,7 @@
   <rect x="893.3" y="61" width="45.5" height="20" rx="10" fill="#f5a524" fill-opacity=".15"/>
   <rect x="893.3" y="61" height="20" rx="10" fill="#f5a524" class="grow" style="--w:45.5px;animation-delay:0.20s" width="0"/>
   <circle cx="938.8" cy="71" r="4" fill="#f5a524"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
-  <text x="883.3" y="75" text-anchor="end" class="m reveal" style="animation-delay:1.00s" font-size="12">Nuxt 4 + PostgreSQL rebuild · 89 API routes · 360+ tests</text></g>
+  <text x="883.3" y="75" text-anchor="end" class="m reveal" style="animation-delay:1.00s" font-size="12">Full-stack Nuxt 4 rebuild · 89 API routes · 360+ tests</text></g>
 <g>
   <text x="24" y="129" class="t" font-size="15" font-weight="600">Dongi</text>
   <text x="24" y="147" class="m" font-size="11.5">Full-time · Remote · Scrum</text>
