@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 250" width="490" height="250" role="img" aria-label="Golfam: an advertising agency's WordPress site, rebuilt solo as a full-stack Nuxt 4 app. PostgreSQL makes double booking of its 150+ billboards impossible.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 250" width="490" height="250" role="img" aria-label="Golfam: Solo Nuxt 4 rebuild for a billboard agency. Mobile-first RTL PWAs and a catalogue of 150+ billboards.">
 <defs><linearGradient id="gc" x1="0" x2="1">
       <stop offset="0" stop-color="#30363d" stop-opacity="0"/>
       <stop offset=".5" stop-color="#30363d" stop-opacity=".9"/>
@@ -22,7 +22,7 @@
 <rect x=".5" y=".5" width="489" height="249" rx="16" fill="#161b22" stroke="#30363d"/>
 <text x="24" y="44" class="mono a" font-size="11.5" letter-spacing="1">FULL-STACK · CLIENT WORK</text>
 <text x="24" y="76" class="t" font-size="23" font-weight="700" letter-spacing="-.4">Golfam</text>
-<text x="24" y="110" class="m" font-size="13.5">An ad agency's WordPress site, rebuilt solo</text><text x="24" y="131" class="m" font-size="13.5">as a full-stack Nuxt 4 app. PostgreSQL makes</text><text x="24" y="152" class="m" font-size="13.5">double booking of 150+ billboards impossible.</text><rect x="24" y="206" width="64" height="24" rx="12" fill="none" stroke="#30363d"/><text x="56" y="222" text-anchor="middle" class="m" font-size="11.5">Nuxt 4</text><rect x="96" y="206" width="90" height="24" rx="12" fill="none" stroke="#30363d"/><text x="141" y="222" text-anchor="middle" class="m" font-size="11.5">PostgreSQL</text><rect x="194" y="206" width="64" height="24" rx="12" fill="none" stroke="#30363d"/><text x="226" y="222" text-anchor="middle" class="m" font-size="11.5">Docker</text><rect x="266" y="206" width="90" height="24" rx="12" fill="none" stroke="#30363d"/><text x="311" y="222" text-anchor="middle" class="m" font-size="11.5">360+ tests</text>
+<text x="24" y="110" class="m" font-size="13.5">Solo Nuxt 4 rebuild for a billboard agency.</text><text x="24" y="131" class="m" font-size="13.5">Mobile-first RTL PWAs and a catalogue</text><text x="24" y="152" class="m" font-size="13.5">of 150+ billboards.</text><rect x="24" y="206" width="64" height="24" rx="12" fill="none" stroke="#30363d"/><text x="56" y="222" text-anchor="middle" class="m" font-size="11.5">Nuxt 4</text><rect x="96" y="206" width="90" height="24" rx="12" fill="none" stroke="#30363d"/><text x="141" y="222" text-anchor="middle" class="m" font-size="11.5">PostgreSQL</text><rect x="194" y="206" width="64" height="24" rx="12" fill="none" stroke="#30363d"/><text x="226" y="222" text-anchor="middle" class="m" font-size="11.5">Docker</text><rect x="266" y="206" width="90" height="24" rx="12" fill="none" stroke="#30363d"/><text x="311" y="222" text-anchor="middle" class="m" font-size="11.5">360+ tests</text>
 <style>@keyframes book{0%,15%{opacity:0}22%,100%{opacity:1}}
 @keyframes clash{0%,48%{opacity:0}52%,60%{opacity:1}64%,68%{opacity:.2}72%,88%{opacity:1}94%,100%{opacity:0}}
 @keyframes ok{0%,15%{opacity:0}22%,46%{opacity:1}50%,100%{opacity:0}}
@@ -32,6 +32,6 @@
 <rect class="bk" x="388" y="72" width="20" height="14" rx="4" fill="#f5a524"/>
 <rect class="cl" x="386" y="70" width="24" height="18" rx="6" fill="none" stroke="#f85149" stroke-width="2"/>
 <text x="400" y="124" text-anchor="middle" class="mono okl" font-size="10.5" fill="#f5a524">slot booked ✓</text>
-<text x="400" y="124" text-anchor="middle" class="mono cl" font-size="10.5" fill="#f85149">double booking ✕</text></g>
+<text x="400" y="124" text-anchor="middle" class="mono cl" font-size="10.5" fill="#f85149">overlap blocked ✕</text></g>
 <text x="466" y="44" text-anchor="end" class="m" font-size="18">↗</text>
 </svg>

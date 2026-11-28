@@ -11,13 +11,13 @@
 <a href="https://www.npmjs.com/package/vue-smart-loading-kit"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 </p>
 
-I'm a full-stack engineer with a strong frontend core and 4+ years of shipping **Vue 3 and Nuxt** products that people use every day. The work I'm proudest of:
+I'm a **Full-Stack Engineer** with 4+ years of professional frontend experience, primarily with **Vue, Nuxt and TypeScript**, alongside React and Next.js. I also build backend features with Node.js, Nitro and PostgreSQL. A few projects show how I work:
 
-- **[Golfam](https://golfamagency.ir)** · I rebuilt an advertising agency's WordPress site as a full-stack Nuxt 4 + PostgreSQL app, on my own, from the database schema to the Docker deploy.
-- **[Vue Smart Loading Kit](https://github.com/navidjaberi/vue-smart-loading-kit)** · my open-source Vue 3 library on npm, backed by 1,400+ tests, 100% line coverage and a 90%+ mutation score.
-- **[Dongi](https://dongi.ir)** · an internal Nuxt CRM that 50+ employees work in every day.
+- **[Golfam](https://golfamagency.ir)** · As the sole developer, I migrated Golfam from WordPress and WooCommerce to Nuxt 4. I built a filterable catalogue of 150+ billboards and two installable PWAs for customers and staff, which reduced manual work on booking requests and contract registration. I also built Nitro APIs and tested PostgreSQL safeguards for concurrent bookings.
+- **[Vue Smart Loading Kit](https://github.com/navidjaberi/vue-smart-loading-kit)** · I maintain this MIT-licensed Vue 3 and TypeScript library for Nuxt and SSR. I built its CSS-based `v-skeleton` after running into limitations with Vuetify skeletons at Dongi. It includes skeletons, spinners, SmartLoader to reduce loading flicker, and PageProgress, backed by unit, browser and Stryker mutation tests.
+- **[Dongi](https://dongi.ir)** · I built Nuxt 3 CRM tables with combinable filters that helped 50+ employees find and manage customer records. I also worked on REST API integration and added Schema.org structured data to Quasar/Vue landing pages.
 
-I also build with React and Next.js, and I work daily with Claude Code, Codex and Copilot, with tests and types keeping them honest.
+I use Claude Code, OpenAI Codex and GitHub Copilot to speed up development. I review changes and validate them with type checks and automated tests.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
@@ -52,12 +52,12 @@ I also build with React and Next.js, and I work daily with Claude Code, Codex an
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/navidjaberi/fitplate"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-fitplate-dark.svg">
-  <img src="assets/card-fitplate-light.svg" alt="FitPlate" width="100%">
+<a href="https://github.com/navidjaberi/food-corner"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-food-corner-dark.svg">
+  <img src="assets/card-food-corner-light.svg" alt="Food Corner" width="100%">
 </picture></a>
 
-<p align="center"><a href="https://fitplate-neon.vercel.app/">live demo</a></p>
+<p align="center"><a href="https://food-corner-beta-gray.vercel.app/">live demo</a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -90,16 +90,16 @@ I also build with React and Next.js, and I work daily with Claude Code, Codex an
 </p>
 
 <p align="center">
-  <b>Frontend</b> Vue 3 · Nuxt 3/4 · Pinia · React 19 · Next.js · Vuetify · Quasar · shadcn/vue<br>
-  <b>Backend</b> Node.js (Nitro) · REST APIs · Zod · PostgreSQL · Drizzle ORM · auth &amp; role-based access<br>
-  <b>Testing</b> Vitest · Vue Test Utils · Testing Library · Playwright · Stryker<br>
-  <b>AI</b> Claude Code · Codex · Copilot · LLM APIs with vision and structured output<br>
-  <b>I care about</b> SSR/SSG · PWAs · SEO · accessibility · RTL layouts · readable component structure
+  <b>Primary Frontend</b> Vue 3 · Nuxt 3/4 · TypeScript · JavaScript · React · Next.js · Pinia · Vue Router<br>
+  <b>UI &amp; Web Platform</b> Tailwind CSS · Vuetify · Quasar · shadcn/vue · three.js · SSR · SSG · PWA · Accessibility · i18n · RTL · Core Web Vitals<br>
+  <b>Backend &amp; Data</b> Node.js · Nitro · PostgreSQL · Supabase · Drizzle ORM · REST APIs · Zod · SQL · RBAC<br>
+  <b>Testing</b> Vitest · Playwright · Vue Test Utils · Testing Library · Stryker mutation testing<br>
+  <b>DevOps</b> Docker · Docker Compose · Nginx · GitHub Actions · CI/CD · Git · Vite | AI-Assisted Development · Claude Code · OpenAI Codex · GitHub Copilot
 </p>
 
 ## 🌱 Right now
 
-- Looking for a **remote full-stack role** with growing backend ownership, ideally on a Vue/Nuxt product
+- Open to **remote frontend and full-stack roles**, especially on teams building with Vue, Nuxt, TypeScript or React.
 - Shipping Golfam and growing the loading kit
 - Writing about frontend on [dev.to](https://dev.to/navidjaberi)
 

@@ -46,7 +46,7 @@
 <g class="sans">
   <text x="46" y="132" class="t reveal d1" font-size="46" font-weight="700" letter-spacing="-1">Navid Jaberi</text>
   <text x="48" y="174" class="t reveal d2" font-size="21" font-weight="600">Full-Stack Engineer <tspan class="m" font-weight="400">·</tspan> <tspan class="a">Vue / Nuxt · Node.js</tspan></text>
-  <text x="48" y="208" class="m reveal d3" font-size="15">Building products people use every day, since 2021</text>
+  <text x="48" y="208" class="m reveal d3" font-size="15">4+ years of professional frontend experience</text>
   <g class="reveal d4">
     <rect x="48" y="236" width="150" height="30" rx="15" fill="#1f2a24" stroke="#42b883" stroke-opacity=".5"/>
     <circle cx="66" cy="251" r="4.5" fill="#42b883"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
@@ -82,7 +82,7 @@
       <circle cx="610" cy="132" r="24" fill="#42b883"/>
       <text x="610" y="139" text-anchor="middle" font-size="19" font-weight="700" fill="#0d1117">NJ</text>
       <text x="648" y="128" class="t" font-size="16" font-weight="700">Hi, I'm Navid 👋</text>
-      <text x="648" y="148" class="m" font-size="12">4+ years of Vue 3 &amp; Nuxt</text>
+      <text x="648" y="148" class="m" font-size="12">Main stack: Vue &amp; Nuxt</text>
       <text x="586" y="186" class="t" font-size="12.5">I build fast, well-tested apps, from UI to database,</text>
       <text x="586" y="206" class="m" font-size="12.5">and I care about what users see while they wait.</text>
       <rect x="586" y="228" width="96" height="26" rx="8" fill="#1f2a24" stroke="#42b883" stroke-opacity=".55"/><text x="634" y="245" text-anchor="middle" font-size="12" font-weight="600" fill="#42b883">Vue / Nuxt</text><rect x="692" y="228" width="96" height="26" rx="8" fill="#1f2a24" stroke="#35a0ff" stroke-opacity=".55"/><text x="740" y="245" text-anchor="middle" font-size="12" font-weight="600" fill="#35a0ff">TypeScript</text><rect x="798" y="228" width="96" height="26" rx="8" fill="#1f2a24" stroke="#f5a524" stroke-opacity=".55"/><text x="846" y="245" text-anchor="middle" font-size="12" font-weight="600" fill="#f5a524">Testing</text>
